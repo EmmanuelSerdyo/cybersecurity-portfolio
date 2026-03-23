@@ -15,25 +15,10 @@ Build a professional portfolio to demonstrate job-ready skills
 
 🛠️ Skills & Tools
 
-🔍 Network Security
-Network scanning & enumeration
-Packet analysis
+🔍 Network Security: Network scanning & enumeration, Packet analysis
 
-🌐 Web Application Security
-Identifying vulnerabilities (SQLi, XSS, etc.)
-Intercepting and analyzing HTTP requests
+🌐 Web Application Security: Identifying vulnerabilities (SQLi, XSS, etc.), Intercepting and analyzing HTTP requests
 
-🛡️ Blue Team / Defensive Security
+🛡️ Blue Team / Defensive Security: Log analysis, Threat detection, Incident investigation
 
-Log analysis
-Threat detection
-Incident investigation
-
-💻 Tools
-
-  Nmap
-  Wireshark
-  Burp Suite
-  Metasploit
-  Splunk
-  Linux
+💻 Tools: Nmap, Wireshark, Burp Suite, Metasploit, Splunk, Linux
