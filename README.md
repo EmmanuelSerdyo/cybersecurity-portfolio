@@ -13,7 +13,7 @@ Develop practical cybersecurity skills through labs and projects
 Gain experience in penetration testing and security analysis
 Build a professional portfolio to demonstrate job-ready skills
 
-🛠️ Skills & Tools
+#Skills & Tools
 
 🔍 Network Security: Network scanning & enumeration, Packet analysis
 
@@ -22,5 +22,10 @@ Build a professional portfolio to demonstrate job-ready skills
 🛡️ Blue Team / Defensive Security: Log analysis, Threat detection, Incident investigation
 
 💻 Tools: Nmap, Wireshark, Burp Suite, Metasploit, Splunk, Linux
+
+#Projects and Labs 
+https://github.com/EmmanuelSerdyo/ftp-file-transfer-lab/
+
+
 
 
