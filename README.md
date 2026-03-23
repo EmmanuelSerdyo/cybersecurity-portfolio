@@ -23,5 +23,4 @@ Build a professional portfolio to demonstrate job-ready skills
 
 💻 Tools: Nmap, Wireshark, Burp Suite, Metasploit, Splunk, Linux
 
-https://github.com/EmmanuelSerdyo/lab
 
